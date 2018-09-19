@@ -1,0 +1,6 @@
+D:\LAST SEMESTER\C.C\SimpleLexicalAnalyzer\SimpleLexicalAnalyzer\bin\Debug\SimpleLexicalAnalyzer.exe.config
+D:\LAST SEMESTER\C.C\SimpleLexicalAnalyzer\SimpleLexicalAnalyzer\obj\Debug\SimpleLexicalAnalyzer.csprojResolveAssemblyReference.cache
+D:\LAST SEMESTER\C.C\SimpleLexicalAnalyzer\SimpleLexicalAnalyzer\bin\Debug\SimpleLexicalAnalyzer.exe
+D:\LAST SEMESTER\C.C\SimpleLexicalAnalyzer\SimpleLexicalAnalyzer\bin\Debug\SimpleLexicalAnalyzer.pdb
+D:\LAST SEMESTER\C.C\SimpleLexicalAnalyzer\SimpleLexicalAnalyzer\obj\Debug\SimpleLexicalAnalyzer.exe
+D:\LAST SEMESTER\C.C\SimpleLexicalAnalyzer\SimpleLexicalAnalyzer\obj\Debug\SimpleLexicalAnalyzer.pdb
